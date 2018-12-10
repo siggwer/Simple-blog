@@ -1,0 +1,6 @@
+<?php
+
+function buildConnection()
+{
+    return new \PDO('mysql:host=your host;dbname=yourdbname;charset=utf8', 'your username', 'your password');
+}

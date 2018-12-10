@@ -1,0 +1,10 @@
+<?php
+
+return[
+    'from' => 'your email',
+    'to' => 'your email',
+    'smtp' => 'your smtp',
+    'port' => 'your port',
+    'userName' => 'your api key',
+    'password' => 'your api key password'
+];

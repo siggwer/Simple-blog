@@ -1,0 +1,26 @@
+/*//////////////////////////////////////////////////////////////////
+[ FONT ]*/
+
+@font-face {
+    font-family: Ubuntu-Regular;
+    src: url('/vendor/font-awesome/fonts/ubuntu/Ubuntu-Regular.ttf');
+}
+
+@font-face {
+    font-family: Ubuntu-Bold;
+    src: url('/vendor/font-awesome/fonts/ubuntu/Ubuntu-Bold.ttf');
+}
+
+/*//////////////////////////////////////////////////////////////////
+[ RESTYLE TAG ]*/
+a {
+    font-family: Ubuntu-Regular;
+    font-size: 14px;
+    line-height: 1.7;
+    color: #ffffff !important;
+    margin: 0px;
+    transition: all 0.4s;
+    -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+}

@@ -1,0 +1,9 @@
+<?php
+
+return [
+    'host' =>'yout localhost',
+    'dbname' => 'your db ,ame',
+    'charset' => 'utf-8',
+    'username' => 'your username',
+    'password' => 'your password'
+];
